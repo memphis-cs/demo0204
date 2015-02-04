@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-
   get 'sdf1' => 'static_pages#sdf1'
+  get 'sdf2' => 'static_pages#sdf2'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
